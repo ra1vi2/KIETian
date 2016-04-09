@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/viewprofile"
+        android:title="View Me" />
+
+    <item android:id="@+id/findteacher"
+        android:title="Find Teacher" />
+
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuchngpass"
+        android:title="Chanage Password"
+        android:icon="@android:drawable/ic_lock_idle_lock"/>
+
+    <item android:id="@+id/menulogout"
+        android:title="Logout"
+        android:icon="@android:drawable/ic_delete"/>
+
+</menu>
